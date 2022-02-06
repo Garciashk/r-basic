@@ -3,6 +3,8 @@ title: "Ejemplo de R Markdown"
 author: "Curso de Estadística Descriptiva"
 date: "21/12/2018"
 output:
+  pdf_document: 
+    keep_tex: yes
   html_document:
     df_print: paged
 ---
